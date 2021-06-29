@@ -1,2 +1,2 @@
 # Tkinter-Snake-Game
-My Nee Tkinter Snake Game
+My New Tkinter Snake Game
