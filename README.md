@@ -3,7 +3,6 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>Tkinter Snake Game</title>
 </head>
 
 <body>
@@ -34,7 +33,7 @@
 
   <p>To start the Snake Game, run the following command:</p>
 
-  <pre><code>python snake_game.py</code></pre>
+  <pre><code>python snake.py</code></pre>
 
   <h2>Contributing</h2>
 
